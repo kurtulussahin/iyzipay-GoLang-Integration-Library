@@ -1,3 +1,5 @@
+<code style="color : red">This code might be outdated. Some functions may no longer be in use.</code>
+
 # iyzipay-go
 
 You can sign up for an iyzico account at https://iyzico.com
